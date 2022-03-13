@@ -22,7 +22,7 @@ realistic projects.
 
 ### Screenshot
 
-![screen shot of qr code project](./Screenshot 2022-03-13 at 14-31-46 Frontend Mentor QR code component.png)
+![screen shot of qr code project](./screenshotQRproject.png)
 
 ### Links
 
