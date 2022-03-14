@@ -42,7 +42,7 @@ body {
   font-size: 22px;
   line-height: 28px;
   color: hsla(217, 44%, 22%, 1);
-  margin-bottom: 16px;
+  margin: 0 0 16px 0;
   width: 288px
 }
 
