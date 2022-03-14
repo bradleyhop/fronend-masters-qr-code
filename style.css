@@ -47,7 +47,7 @@ body {
 }
 
 .card-text {
-  margin: auto;
+  margin: 0 auto;
   font-weight: 400;
   font-size: 15px;
   line-height: 19px;
