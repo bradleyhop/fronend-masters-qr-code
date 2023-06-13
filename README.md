@@ -16,8 +16,6 @@ realistic projects.
   - [Continued development](#continued-development)
 - [Author](#author)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
-
 ## Overview
 
 ### Screenshot
@@ -47,9 +45,7 @@ a wonderful practice opprotunity. I didn't watch or read at tutorials; I just
 started clicking around to find attributes for the project.
 
 I chose not to implement Sass, Vue, or any other tools that I use as an exercise
-in building with the basics of web development. That, and this project was very
-simple.
-
+in building with the basics of web development.
 
 ### Continued development
 
